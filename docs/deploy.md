@@ -2,7 +2,7 @@
 
 **IMPORTANT**: Ensure that all resources are created in the `us-east-1` (N. Virginia) region
 
-If you came here from the [Amazon EKS course](https://learn.kodekloud.com/user/courses/aws-eks), this is lab step 3.
+If you came here from the [Amazon EKS course](https://learn.kodekloud.com/pavannayakanti/courses/aws-eks), this is lab step 3.
 
 1. Clone the Repository
 
